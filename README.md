@@ -1,9 +1,6 @@
 ## Olá👋, eu sou o Thiago
 ---
 
-<!--
-**thiagosilvadev/thiagosilvadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Estudante de análise de sistemas buscando oportunidades para entrar no mundo do desenvolvimento. Frontend com foto em UI
 
 
