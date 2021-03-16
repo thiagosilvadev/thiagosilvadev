@@ -1,7 +1,7 @@
 ## Olá👋, eu sou o Thiago
----
 
-Estudante de análise de sistemas buscando oportunidades para entrar no mundo do desenvolvimento. Frontend com foto em UI
+
+Estudante de análise de sistemas buscando oportunidades para entrar no mundo do desenvolvimento. Frontend com foco em UI
 
 
 ### Linguagens e Habilidades
