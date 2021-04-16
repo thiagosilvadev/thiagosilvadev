@@ -6,6 +6,7 @@ Estudante de análise de sistemas buscando oportunidades para entrar no mundo do
 
 ### Linguagens e Habilidades
 - Javascript
+- TypeScript
 - PHP
 - HTML
 - CSS
